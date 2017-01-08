@@ -1,9 +1,6 @@
 ---
-layout: post
 title: Hitting the Moon on the First Shot (or Valuing Correctness)
 ---
-
-# Hitting the moon on the first shot
 
 I've been toying around with the idea of writing a post about the cultural
 and mental shift I've undergone in the last year and a half at
