@@ -1,7 +1,3 @@
----
-title: Richard Kiene's Blog
----
-
 My [GitHub](https://github.com/richardkiene) profile
 
 Follow me on [Twitter](https://twitter.com/shmeeny")
