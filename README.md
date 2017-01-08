@@ -2,10 +2,13 @@
 title: Richard Kiene's Blog
 ---
 
-<p><a href="https://github.com/richardkiene">GitHub</a></p>
-<p><a href="https://twitter.com/shmeeny">Twitter</a></p>
-<p><a href="https://keybase.io/shmeeny">Keybase</a></p>
-<p><a href="https://www.linkedin.com/in/richard-kiene-bb235b5">LinkedIn</a></p>
+My [GitHub](https://github.com/richardkiene) profile
+
+Follow me on [Twitter](https://twitter.com/shmeeny")
+
+Follow me on [Keybase](https://keybase.io/shmeeny)
+
+~~Increase my recruiter spam~~ Check me out on [LinkedIn](https://www.linkedin.com/in/richard-kiene-bb235b5)
 
 <ul>
   {% for post in site.posts %}
