@@ -6,7 +6,8 @@ I've been toying around with the idea of writing a post about the cultural
 and mental shift I've undergone in the last year and a half at
 [Joyent](https://www.joyent.com). The biggest transition being going from
 "Ship ship ship, even if it is shit, ship ship!" to "Get it right,
-preferably the first time".
+preferably the first time". So in an ironic twist, I've decided to post the
+pitch for a blog post rather than create the finished product.
 
 In my opinion, the emphasis on upfront planning, architecture review,
 academic-ish rigor, and fully understanding each problem set is what most people
