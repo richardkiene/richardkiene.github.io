@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/shmeeny
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://richardkiene.github.io
+  * I am shmeeny (https://keybase.io/shmeeny) on keybase.
+  * I have a public key with fingerprint 3B29 9DA1 23F5 435D 9263  32A8 979A C057 94BC 35E3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208d2e3c5cf5faf4f910cafd07d7f03ccec403581f50b5f7afeb288ed1314f5b320a",
+            "fingerprint": "3b299da123f5435d926332a8979ac05794bc35e3",
+            "host": "keybase.io",
+            "key_id": "979ac05794bc35e3",
+            "kid": "01017a239cabef3ee15cd6410b5bd2b7cf6c8ca7077b9a0497dbe302847d3b74cd890a",
+            "uid": "aedda760a666d0fc0e3cbed533746d19",
+            "username": "shmeeny"
+        },
+        "service": {
+            "hostname": "richardkiene.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483903755,
+    "expire_in": 157680000,
+    "prev": "397d874da4cd7124ad881f1c1611bd2e5894ce4dd0bd804e4e32744e50c70969",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMN4AnicbVJrTBRXGN2Vl2JA8QHFoDZjbG0FuTN3ZmcGWzWiBIgRSiAWkK4z996B
+cWEXdhdkFZpQAiUVyyYgqC1JaRXTQmqCD4JBKI9SWiyPWKwPaoWK/kCK4VXpg3SG
+6r/ePzf3yznnnvN9X7efh8HXWHPum0NVrdxvxr6OulzDu/bKlSco2YZdVMQJykKW
+LpKJicNptqiYiqAAzQABMwQiDimcIimsItIASQoGPOYVABEiiAWQE2iFAzKn8JJC
+ZEYQCKYhzSqcDBkgUaGUolrTiT3brlqdmiyUGVHEEs1AhWMhh0XGBCEjCSIvSghw
+vMjKCHIEasQMm0NnaOZkyUF2qDatpj3MS/b+B//SN6B5iYEikmSiQEJoDmETS2sW
+ZczIPFJMSEASD3heFiXAijyWCQSMwPIYyjyLsCAu+c5dkpMIxhJvApLJZMJAQUBr
+iEwwByHPmjAt6kAHsVulLKKhHRlZhFhdVGEopRXzVET0vupBXgDsKsqQ7NiiEivZ
+ka46M3Ll/4Jl221OG7JlapgMpzPbEaFrOF3ZOukYkc0v5MyyasVaQzVGHrE7VJuV
+iqA1JHKquj7NClAEkOe4UIrkZ6t2YlZ1BMebBKAd/R+Sp49Biy3wLJa0vDzNsBIW
+tDnSiDbRtNYmwgkiiwiLMZCxAFjCEsjwLEs4gHggmvTYDpJjtVERjCbqlNL18Gq6
+VXLm2glV2Nlx2NNg9DV4ey3TN83gu2L1y/1z4dWGwduJE7VTxT7inCEssMbuEddW
++07krZjmuahTBVOJ0W1xzdBy7uyXkwZqxkPY4v98+7U7927U/vrH4sK8yyt5jWOq
+d+zoqxXe2b9M+NSjAlAWd+bqFBz7JzhgJqJqvrzoxxnLpDFt1xs5JVfqaoKtnkMp
+f+ZXN0I8JgxGT0fGlZYlr9s5uj1ofPTw8KpY7Ll7Oubr5jf3CUWXx4Vnk76xCSPi
+tum80Otzn6wNSZ2d6TtunCjZ4vIzb1yA3YmFs71j0yMIXEz0b8IroqjilfUV2wZj
+XquCd53t7aA9/Ehj6lh006O9PWFvJ9p6zlbGv39ffv1D931poa9jYdVu4e7WnxpZ
+477G6tyBlt7R+F0Pky49NXclzLb0F+Y+836yucUv2lpGuQti92/82dJ51X3zY+bv
+4TKknlGLb32V+Xird0/lhoZwLrjNK/zT0YPui4FBn38U5rfu6ZOTyxMf7Cltjzpi
+2cysCg4pEZKv9SW0XijP+SJFqJlPWHsgspw55PtQaXieaSgKfvzK+cvD641ceFdU
+VFla68gF4d4ez/Nl3/0ee+PRPL+mPiAtK+T6X3X9Bn94tOfU4iafzoFvXSkD+d//
+MFQe7/Vg+XuxH+RvuJIamDTe7U5LaTp+urr0QOH6m5vcAbMNl+bvuCdpY/9i0LKT
+kSGRB0f2Jt0e2l+187R8rKJL/Owt9l9NWcI+
+=WOwn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shmeeny
+
+==================================================================
