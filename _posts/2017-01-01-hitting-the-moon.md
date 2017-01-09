@@ -30,7 +30,7 @@ that is in early beta.
 
 I have to admit, shaking the ship ship ship mentality was difficult. I
 frequently found myself getting frustrated with conversations that felt like
-a waste of time. These were onversations that previously would have been
+a waste of time. These were conversations that previously would have been
 deferred until the project was minimally complete. However, perhaps due to lots
 of growing up, I realized that the culture at Joyent necessitated these hard
 conversations about scale, future usage, debuggability, observability,
