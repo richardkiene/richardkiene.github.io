@@ -41,7 +41,7 @@ What I found was that the conversations, rigor, design process, etc. all
 resulted in solving problems during the design process that normally would have
 been solved after realizing the shortcomings in production. The biggest
 difference being that I, the engineer, pay the price up-front for my decisions,
-rather than hoist them on to operations and support teams while I "figure the
+rather than foist them on to operations and support teams while I "figure the
 rest out". To be clear, I'm not saying that I previously put no effort in to
 designing and scaling my solutions. I'm saying that much of that effort
 was done informally, often after the first cut was shipped. This was in large
